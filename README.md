@@ -25,7 +25,8 @@ How It Works
 Vehicle Generation: Vehicles are generated randomly for each lane based on traffic conditions, varying by time of day (peak or off-peak).
 Traffic Light Control: The RL agent observes vehicle counts and selects the lane to receive the green light, prioritizing efficient traffic flow.
 Reward System: Positive rewards are granted for reducing congestion and clearing vehicles promptly. Negative rewards are applied for delays or traffic mismanagement.
-![Uploading traffic-management-1.png…]()
+
+![traffic-management-1](https://github.com/user-attachments/assets/d72f80f9-47d5-4733-9a5a-f62a6f19cfe8)
 
 
 Simulation Progression: The simulation continues step-by-step until the maximum episode limit is reached or all lanes are cleared.
